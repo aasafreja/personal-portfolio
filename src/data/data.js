@@ -61,14 +61,14 @@ export const education = [
     {
         degree: "Full Stack Web Development",
         institution: "Codecademy Online Courses",
-        period: "2023-2024",
+        period: "2023-2025",
         description: "Comprehensive training in MERN stack development",
     },
     {
         degree: "Bachelor's Degree",
         institution: "Stockholm School of Economics",
         period: "2016 - 2019",
-        description: "Bachelor’s Degree in Social Sciences in Economics",
+        description: "Bachelor of Science (BSc) in Business and Economics",
     },
 ];
 

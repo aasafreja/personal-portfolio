@@ -1,9 +1,7 @@
 import React from 'react'
-
 import { FiGithub, FiLinkedin } from 'react-icons/fi';
-
 import { IoMailOutline } from "react-icons/io5";
-import { CardHeader, Card, CardTitle, CardContent } from './Card'
+import { Card, CardContent } from './Card'
 
 const Contact = () => {
     return (

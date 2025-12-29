@@ -41,9 +41,9 @@ const Portfolio = () => {
                     </button>
                 </div>
 
-                {/* PROJECT TAB */}
+                {/* Projects Tab */}
                 {active === 'projects' && <div>
-                    <div className='grid grid-cols-2 lg:grid-cols-3 gap-8 mb-8'>
+                    <div className='grid grid-cols-1 lg:grid-cols-3 gap-8 mb-8'>
                         {projects.map((project, index) => (
                             <Card key={index} className='card-hover border-border/50 overflow-hidden group'>
                                 <div>
