@@ -2,7 +2,7 @@
 
 This is my personal portfolio site showcasing my work and projects. Built using React and styled with Tailwind CSS, it's hosted on Netlify for easy deployment and access.
 
-Check out my live portfolio website [here](asafreja-dev.netlify.app).
+Check out my live portfolio website [here](https://asafreja-dev.netlify.app/).
 
 <!-- ## Preview
 
