@@ -74,7 +74,7 @@ const Hero = () => {
                         </div>
                     </div>
                 </div>
-                <div className="flex justify-center md:justify-end md:absolute md:bottom-0 md:right-0 ">
+                {/* <div className="flex justify-center md:justify-end md:absolute md:bottom-0 md:right-0 ">
                     <div className="w-64 md:w-80 lg:w-96 lg:scale-125 lg:origin-bottom-right">
                         <img
                             src={ProfilePhoto}
@@ -82,7 +82,7 @@ const Hero = () => {
                             className="w-full h-auto opacity-90"
                         />
                     </div>
-                </div>
+                </div> */}
             </div>
         </section>
     )
