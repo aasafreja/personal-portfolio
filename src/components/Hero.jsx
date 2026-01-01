@@ -1,5 +1,5 @@
 import React from 'react'
-import ProfilePhoto from '../img/profile.png'
+import ProfilePhoto from '../img/profile5.png'
 import { FiGithub, FiLinkedin } from 'react-icons/fi';
 
 const Hero = () => {
@@ -19,8 +19,9 @@ const Hero = () => {
                 </div>
                 <div class="absolute inset-0 bg-gradient-to-br from-white/90 to-white/50 clip-right"></div>
             </div>
-            <div>
-                <div className='container mx-auto px-6 md:px-12 lg:px-24 py-20 relative z-10'>
+            <div className='space-y-1'>
+                <div className='container mx-auto px-6 md:px-12 lg:px-24 
+               pt-16 pb-6 md:py-20 relative z-10'>
                     <div className='grid md:grid-cols-2 gap-12 items-center'>
                         {/* Left: text content  */}
                         <div className='space-y-6'>
@@ -74,15 +75,19 @@ const Hero = () => {
                         </div>
                     </div>
                 </div>
-                {/* <div className="flex justify-center md:justify-end md:absolute md:bottom-0 md:right-0 ">
-                    <div className="w-64 md:w-80 lg:w-96 lg:scale-125 lg:origin-bottom-right">
-                        <img
-                            src={ProfilePhoto}
-                            alt="Anete Asafreja"
-                            className="w-full h-auto opacity-90"
-                        />
+                <div className="flex justify-center md:justify-end md:absolute md:bottom-0 md:right-0">
+
+                    <div className="flex justify-center md:justify-end md:absolute md:bottom-0 md:right-0">
+                        <div className="w-72 md:w-[420px] lg:w-[520px] xl:w-[600px]">
+                            <img
+                                src={ProfilePhoto}
+                                alt="Anete Asafreja"
+                                className="w-full h-auto opacity-90"
+                            />
+                        </div>
                     </div>
-                </div> */}
+
+                </div>
             </div>
         </section>
     )
