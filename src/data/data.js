@@ -94,7 +94,7 @@ export const projects = [
             "Formspree"
         ],
         github: "https://github.com/aasafreja/bbakery-website",
-        demo: "https://bbakery-cheesecakes.netlify.app/",
+        demo: "https://beanysbakery.lv/",
         image: BeanysBakery
     },
     {
