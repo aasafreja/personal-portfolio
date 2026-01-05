@@ -31,21 +31,9 @@ export const navItems = [
 
 export const experiences = [
     {
-        role: "BI Developer",
-        company: "Visma",
-        period: "2021 - 2025",
-        type: "Full-time",
-        description: [
-            "Developed and maintained complex ETL processes",
-            "Created interactive Power BI/ Apache Superset/ Microstrategy dashboards",
-            "Designed and implemented data pipelines",
-            "Translate business needs to technical specifications"],
-        skills: ["SQL", "Power BI", "ETL", "MicroStrategy", "Data Modeling", "Database Architecure"],
-    },
-    {
         role: "Full Stack Developer",
         company: "Freelance / Personal Projects",
-        period: "2024 - Present",
+        period: "Jan 2025 - Present",
         type: "Self-Taught",
         description: [
             "Building full-stack web applications using MERN/PERN stack (MongoDB/PostregSql, Express, React, Node.js)",
@@ -55,6 +43,20 @@ export const experiences = [
         ],
         skills: ["React", "Node.js", "MongoDB", "Express", "JavaScript", "Tailwind CSS", 'Git'],
     },
+    {
+        role: "BI Developer",
+        company: "Visma",
+        period: "Mar 2021 - Present",
+        type: "Full-time",
+        description: [
+            "Developed and maintained complex ETL processes",
+            "Created interactive Power BI/ Apache Superset/ Microstrategy dashboards",
+            "Designed and implemented data pipelines",
+            "Translate business needs to technical specifications"],
+        skills: ["SQL", "Power BI", "ETL", "MicroStrategy", "Data Modeling", "Database Architecure"],
+    },
+
+
 ];
 
 export const education = [
