@@ -53,7 +53,7 @@ const Hero = () => {
                                         View My Work
                                     </button>
 
-                                    <a href="https://drive.google.com/file/d/1vX6IaWuRvOfa1ewhdS-0PrJ3yx3NvzLd/view" target='_blank' rel='noopener noreferrer'
+                                    <a href="https://drive.google.com/file/d/1z58gfaxciY-1RXpe0voE9V-4qss0ZL4C/view" target='_blank' rel='noopener noreferrer'
                                         className="inline-flex items-center justify-center gap-2  rounded-md text-sm font-medium 
     h-11 px-8 border-2 border-primary/20 hover:border-primary/40 hover:bg-primary/5  duration-300">
                                         Download CV
