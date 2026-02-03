@@ -116,7 +116,7 @@ export const certificates = [
         title: "Full Stack Web Development",
         issuer: "Codecademy",
         year: "2025",
-        link: "https://drive.google.com/file/d/1kmVZseG5IL_5GSkK4bDkvLzjxe4M1OfK/view",
+        link: "https://drive.google.com/file/d/1UzT758qUmdaTgFzB1VUs-mAwdGtRKSVC/view",
     },
     {
         title: "TypeScript",
