@@ -46,7 +46,7 @@ export const experiences = [
     {
         role: "BI Developer",
         company: "Visma",
-        period: "Mar 2021 - Present",
+        period: "Mar 2021 - Dec 2025",
         type: "Full-time",
         description: [
             "Developed and maintained complex ETL processes",
