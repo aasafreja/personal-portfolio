@@ -33,7 +33,7 @@ export const experiences = [
     {
         role: "Full Stack Developer",
         company: "Freelance / Personal Projects",
-        period: "Mar 2025 - Present",
+        period: "Mar 2024 - Present",
         type: "Part-time",
         description: [
             "Building full-stack web applications using MERN/PERN stack (MongoDB/PostregSql, Express, React, Node.js)",
