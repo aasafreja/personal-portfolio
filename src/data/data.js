@@ -19,6 +19,8 @@ import { BiLogoPostgresql } from "react-icons/bi";
 import SnapNotes from '../img/full-note.png'
 import BeanysBakery from '../img/bbakery-demo.gif'
 import kanbanDemo from '../img/kanban-demo.gif'
+import spexsDemo from '../img/demo-spexs.gif'
+
 
 
 export const navItems = [
@@ -98,6 +100,14 @@ export const projects = [
         github: "https://github.com/aasafreja/bbakery-website",
         demo: "https://beanysbakery.lv/",
         image: BeanysBakery
+    },
+    {
+        title: "SPEXS - Landing Page",
+        description: "Landing page for SPĒXS, showcasing management consulting services for fitness businesses. Focused on designing a clean, responsive, and user-friendly UI.",
+        tags: ["React", "Vite", "Tailwind CSS", "Netlify", 'TypeScript'],
+        github: "#",
+        demo: "https://spexs-eu.netlify.app/",
+        image: spexsDemo
     },
     {
         title: "Kanban Board",
