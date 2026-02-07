@@ -79,8 +79,8 @@ export const education = [
 export const projects = [
     {
         title: "SnapNotes - Note Taking App",
-        description: "JWT-authenticated notes app with CRUD functionality and cloud image storage.",
-        tags: ["React", "Node.js", "PostgreSQL (Neon)", "Supabase cloud storage", 'JWT'],
+        description: "JWT-authenticated notes app with CRUD functionality and cloud image storage, and comprehensive Playwright E2E tests.",
+        tags: ["React", "Node.js", "PostgreSQL (Neon)", "Supabase cloud storage", "Playwright E2E tests", "Material UI", 'JWT'],
         github: "https://github.com/aasafreja/note-taking-app",
         demo: "https://snap-notes-web.netlify.app/",
         image: SnapNotes
