@@ -43,7 +43,7 @@ const Portfolio = () => {
 
                 {/* Projects Tab */}
                 {active === 'projects' && <div>
-                    <div className='grid grid-cols-1 lg:grid-cols-4 gap-8 mb-8'>
+                    <div className='grid grid-cols-1 md:grid-cols-3 md:gap-6 lg:grid-cols-4 gap-8 mb-8'>
                         {projects.map((project, index) => (
                             <Card key={index} className='card-hover border-border/50 overflow-hidden group'>
                                 <div>
