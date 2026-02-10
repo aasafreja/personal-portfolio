@@ -106,7 +106,7 @@ export const projects = [
         description: "Landing page for SPĒXS, showcasing management consulting services for fitness businesses. Focused on designing a clean, responsive, and user-friendly UI.",
         tags: ["React", "Vite", "Tailwind CSS", "Netlify", 'TypeScript'],
         github: "#",
-        demo: "https://spexs.eu",
+        demo: "https://spexs.eu/",
         image: spexsDemo
     },
     {
