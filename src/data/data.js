@@ -12,8 +12,12 @@ import {
     SiDocker,
     SiPostman,
     SiApachesuperset,
-    SiMicrostrategy
+    SiMicrostrategy,
+    SiGraphql,
+    SiSocketdotio,
+    SiGithubactions
 } from "react-icons/si";
+
 
 import { BiLogoPostgresql } from "react-icons/bi";
 import SnapNotes from '../img/full-note.png'
@@ -194,9 +198,19 @@ export const techStack = {
             color: "#000000",
         },
         {
+            name: "GraphQL",
+            icon: SiGraphql,
+            color: "#E10098",
+        },
+        {
             name: "MongoDB",
             icon: SiMongodb,
             color: "#47A248",
+        },
+        {
+            name: "WebSockets",
+            icon: SiSocketdotio,
+            color: "#010101",
         },
         {
             name: "PostgreSQL",
@@ -210,6 +224,11 @@ export const techStack = {
             name: "Git",
             icon: SiGit,
             color: "#F05032",
+        },
+        {
+            name: "GitHub Actions",
+            icon: SiGithubactions,
+            color: "#2088FF",
         },
         {
             name: "Docker",
